@@ -11,3 +11,9 @@
 * [総合目次 - 苦しんで覚えるC言語 [MMGames]](https://9cguide.appspot.com/)
 
 * [JavaScript Primer - 迷わないための入門書 #jsprimer](https://jsprimer.net/)
+
+## 離散数学
+
+* [離散数学](https://www.ci.seikei.ac.jp/yamamoto/lecture/dm/text.pdf)
+* [離散数学](http://www.alg.cei.uec.ac.jp/itohiro/lecture/risan-sugaku_2013.pdf)
+* [離散構造](http://www.cs.tsukuba.ac.jp/~kam/lecture/discrete2013/text/main.pdf)
