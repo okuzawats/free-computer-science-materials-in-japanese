@@ -12,6 +12,12 @@
 
 * [JavaScript Primer - 迷わないための入門書 #jsprimer](https://jsprimer.net/)
 
+## コンパイラ
+
+* [コンパイラ講義資料 （東北大学 工学部 情報知能システム総合学科，2020年度）](https://www.pllab.riec.tohoku.ac.jp/education/lectures/compiler/compiler.html)
+* [コンパイラ講義資料](http://www.fos.kuis.kyoto-u.ac.jp/~umatani/le4/pdf/mainSlides.pdf)
+* [コンパイラ](http://www.yuasa.kuis.kyoto-u.ac.jp/~yuasa/shokodo/ocw.pdf)
+
 ## 離散数学
 
 * [離散数学](https://www.ci.seikei.ac.jp/yamamoto/lecture/dm/text.pdf)
