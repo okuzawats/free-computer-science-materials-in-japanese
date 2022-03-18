@@ -12,6 +12,13 @@
 
 * [JavaScript Primer - 迷わないための入門書 #jsprimer](https://jsprimer.net/)
 
+## アルゴリズムとデータ構造
+
+* [Open Data Structures (in C++) 日本語版](https://jinnaiyuu.github.io/pdf/ods-cpp.pdf)
+* [アルゴリズムとデータ構造](https://www.ci.seikei.ac.jp/yamamoto/lecture/algorithm/text.pdf)
+* [アルゴリズム](https://www.aida.t.u-tokyo.ac.jp/~aida/algorithm.pdf)
+* [Algorithm I](http://www.cs.gunma-u.ac.jp/~nakano/Al/index.html)
+
 ## コンパイラ
 
 * [コンパイラ講義資料 （東北大学 工学部 情報知能システム総合学科，2020年度）](https://www.pllab.riec.tohoku.ac.jp/education/lectures/compiler/compiler.html)
